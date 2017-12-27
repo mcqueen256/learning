@@ -1,0 +1,6 @@
+[package]
+name = "vector_things"
+version = "0.1.0"
+authors = ["Nicholas Buckeridge <bucknich@gmail.com>"]
+
+[dependencies]

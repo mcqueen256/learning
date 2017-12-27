@@ -1,0 +1,6 @@
+[package]
+name = "rbe_1_1"
+version = "0.1.0"
+authors = ["Nicholas Buckeridge <bucknich@gmail.com>"]
+
+[dependencies]
