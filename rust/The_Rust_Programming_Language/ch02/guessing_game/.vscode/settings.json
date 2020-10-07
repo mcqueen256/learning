@@ -1,0 +1,7 @@
+{
+    "rust-client.engine": "rust-analyzer",
+    "rust-client.channel": "default",
+    "code-runner.executorMap": {
+        "rust": "cargo run # $fileName"
+      }
+}
