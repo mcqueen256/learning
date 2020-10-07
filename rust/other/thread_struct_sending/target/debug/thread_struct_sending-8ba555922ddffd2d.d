@@ -1,0 +1,1 @@
+/Users/nicholas/Development/learning/rust/other/thread_struct_sending/target/debug/thread_struct_sending-8ba555922ddffd2d.dSYM: /Users/nicholas/Development/learning/rust/other/thread_struct_sending/src/main.rs
