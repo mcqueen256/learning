@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "my-box",
+    "the-rc",
+    "ref-mut"
+]
