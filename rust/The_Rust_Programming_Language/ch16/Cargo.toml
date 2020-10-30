@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "msg-passing",
+    "shared-state"
+]
